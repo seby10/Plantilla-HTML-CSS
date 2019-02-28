@@ -4,6 +4,12 @@ body {
 
 a {
   color: #DA4B00;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #DA4B00;
+  background: #E8F1F8;
 }
 
 h1 {
